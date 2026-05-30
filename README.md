@@ -6,7 +6,6 @@ I will be updating this repository every week to analyse my learning patterns an
 
 The coding part of this series will be uploaded in different repository.
 
-Python basic codes : [Python-Basics](https://github.com/pravalika2307/Python-Basics.git)
+Python & DSA codes : [DSA with Python](https://github.com/pravalika2307/Python-Basics.git)
 
-DSA codes : will create a repository soon
 
